@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{741F981D-4AED-4024-9F24-A86DA8659B90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ioc", "Ioc\Ioc.csproj", "{8116BC08-21D2-4907-9286-05057EDAD10A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{20B1FFA7-2400-4BCC-BDBD-E3415F4ADFAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{741F981D-4AED-4024-9F24-A86DA8659B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741F981D-4AED-4024-9F24-A86DA8659B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741F981D-4AED-4024-9F24-A86DA8659B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741F981D-4AED-4024-9F24-A86DA8659B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8116BC08-21D2-4907-9286-05057EDAD10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8116BC08-21D2-4907-9286-05057EDAD10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8116BC08-21D2-4907-9286-05057EDAD10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8116BC08-21D2-4907-9286-05057EDAD10A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B1FFA7-2400-4BCC-BDBD-E3415F4ADFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B1FFA7-2400-4BCC-BDBD-E3415F4ADFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B1FFA7-2400-4BCC-BDBD-E3415F4ADFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B1FFA7-2400-4BCC-BDBD-E3415F4ADFAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
